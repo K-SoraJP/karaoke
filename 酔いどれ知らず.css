@@ -1,0 +1,140 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 627px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 52px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 431px;
+  background-image: url("https://assets.nicepagecdn.com/44714981/4316670/images/image.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 431px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 29px 52px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0 auto 0 105px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 3px 10px 0 6px;
+}
+
+.u-section-1 .u-btn-1 {
+  margin: 46px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  width: auto;
+  font-size: 0.75rem;
+  margin: -111px 47px 60px 99px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 355px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 355px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 272px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 86px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 408px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 257px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 216px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 4px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 51px;
+  }
+}
